@@ -1,0 +1,6 @@
+pizza heaven - pizzéria weboldal
+
+1. header - kattintható logóval (főoldalra vissza), háttérrel
+2. navigációs bar - menu ikon (mobilnézet), rólunk-kapcsolat-étlap-házhozszállítás
+3. main - aktuális oldal tartalmával
+4. footer - 
